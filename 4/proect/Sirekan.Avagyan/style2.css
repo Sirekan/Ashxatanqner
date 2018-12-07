@@ -1,0 +1,25 @@
+article {
+	width:600px;
+	height: 300px;
+	border:2px solid ;
+	border-radius: 18px;
+	float:left;
+}
+article img{
+	float:left;
+	margin:18px;
+	float:left;
+}
+
+.yes{
+	border:2px dashed gray;
+	width: 900px;
+	margin:auto;
+	border-radius: 20px;
+	padding: 19px;
+}
+.yes img{
+	width: 20%;
+	display:block;
+	margin:20px;
+}
